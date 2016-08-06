@@ -1,0 +1,33 @@
+_repo: The-House-of-Whispers_10718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: A remarkable mystery story in which valuables disappear from locked safes;
+  written and whispered warnings come out of nowhere and a murder is committed behind
+  locked doors--all in a modern New York apartment. ""Full of arresting situations
+  and making a strong appeal at every stage to the instinct of curiosity.""
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Castles -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Perthshire (Scotland) -- Fiction'
+- GITenberg
+title: The House of Whispers
+url: http://www.gutenberg.org/ebooks/10718
