@@ -1,5 +1,8 @@
 _repo: The-House-of-Whispers_10718
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Queux, William
@@ -15,6 +18,8 @@ description: A remarkable mystery story in which valuables disappear from locked
   written and whispered warnings come out of nowhere and a murder is committed behind
   locked doors--all in a modern New York apartment. ""Full of arresting situations
   and making a strong appeal at every stage to the instinct of curiosity.""
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10718#The-House-of-Whispers
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
